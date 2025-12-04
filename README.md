@@ -54,7 +54,7 @@ This project is an AI-powered tool that generates multiple-choice questions (MCQ
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/mcq-generator.git
+   git clone https://github.com/jayesh3103/text2test.git
    cd mcq-generator
 2. **Set your OpenAI API key**:  
    Create a `.env` file in the project root and add the following line:
